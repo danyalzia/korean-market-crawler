@@ -1,0 +1,8 @@
+간편조리식품, https://dangolmart.shop/product/list.html?cate_no=23
+김치/반찬/젓갈, https://dangolmart.shop/product/list.html?cate_no=24
+축산/수산/청과, https://dangolmart.shop/product/list.html?cate_no=25
+음료·차/간편대용식/양념·오일, https://dangolmart.shop/product/list.html?cate_no=28
+선물세트, https://dangolmart.shop/product/list.html?cate_no=26
+건강식품, https://dangolmart.shop/product/list.html?cate_no=105
+생활용품, https://dangolmart.shop/product/list.html?cate_no=100
+업소용, https://dangolmart.shop/product/list.html?cate_no=92

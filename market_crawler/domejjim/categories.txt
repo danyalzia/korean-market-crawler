@@ -1,0 +1,11 @@
+남성상의, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=007
+여성상의, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=009
+남성하의, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=003
+여성하의, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=001
+트레이닝, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=033
+요가ㅣ스포츠웨어, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=023
+래시가드, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=019
+골프웨어, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=030
+빅사이즈모음, http://www.domejjim.com/shop/shopbrand.html?type=Y&xcode=013
+홈웨어ㅣ언더웨어, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=031
+신발ㅣ패션잡화, http://www.domejjim.com/shop/shopbrand.html?type=X&xcode=004

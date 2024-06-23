@@ -1,0 +1,8 @@
+펫용품, https://www.goodsdeco.com/goods/goods_list.php?cateCd=014
+키친, https://www.goodsdeco.com/goods/goods_list.php?cateCd=002
+패브릭, https://www.goodsdeco.com/goods/goods_list.php?cateCd=001
+리빙.욕실, https://www.goodsdeco.com/goods/goods_list.php?cateCd=003
+가든.장식용품, https://www.goodsdeco.com/goods/goods_list.php?cateCd=004
+해초.라탄, https://www.goodsdeco.com/goods/goods_list.php?cateCd=005
+가구.선반, https://www.goodsdeco.com/goods/goods_list.php?cateCd=006
+시즌상품, https://www.goodsdeco.com/goods/goods_list.php?cateCd=007

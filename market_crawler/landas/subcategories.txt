@@ -1,0 +1,10 @@
+자켓_겨울 자켓, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&&category=001001001
+자켓_플리스 자켓, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&&category=001001006
+자켓_윈드 자켓, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&&category=001001005
+조끼_겨울 조끼, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&&category=001002001
+조끼_카라 조끼, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&&category=001002003
+조끼_망사 조끼, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&&category=001002007
+조끼_브이넥 조끼, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&&category=001002009
+바지, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&category=001003
+반사의류, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&category=001005
+한정판매, https://www.ldsb2bmall.com/shop/goods/goods_list.php?&category=001007

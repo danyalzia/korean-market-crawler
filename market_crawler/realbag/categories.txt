@@ -1,0 +1,8 @@
+BACKPACK, https://realbag.kr/product/list.html?cate_no=4
+CROSS BODY/WAIST BAG, https://realbag.kr/product/list.html?cate_no=37
+BOSTON BAG, https://realbag.kr/product/list.html?cate_no=35
+CARRIER, https://realbag.kr/product/list.html?cate_no=47
+WOMAN, https://realbag.kr/product/list.html?cate_no=43
+CLOTH, https://realbag.kr/product/list.html?cate_no=44
+OTHERS, https://realbag.kr/product/list.html?cate_no=45
+SALE BAG, https://realbag.kr/product/list.html?cate_no=39

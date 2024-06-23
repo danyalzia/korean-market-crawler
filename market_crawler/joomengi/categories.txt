@@ -1,0 +1,13 @@
+신발_플랫-로퍼, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=35
+신발_슬립온-스니커즈, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=36
+신발_펌프스-힐, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=55
+신발_샌들, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=37
+신발_부츠, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=38
+신발_털단화, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=71
+신발_슬리퍼-실내화, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=64
+가방_여성-핸드백, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=57
+가방_에코백, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=74
+가방_힙색-메신저백, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=69
+가방_백팩, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=28
+가방_남성-서류가방, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=67
+가방_여행-스포츠백, http://shop1.mjmarket.cafe24.com/product/list.html?cate_no=68

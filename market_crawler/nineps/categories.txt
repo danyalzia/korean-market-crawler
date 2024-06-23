@@ -1,0 +1,6 @@
+여성화, http://9ps.kr/product/list.php?cid=7
+남성화, http://9ps.kr/product/list.php?cid=8
+운동화, http://9ps.kr/product/list.php?cid=6
+커플신발, http://9ps.kr/product/list.php?cid=205
+빅사이즈, http://9ps.kr/product/list.php?cid=116
+아동화, http://9ps.kr/product/list.php?cid=9

@@ -1,0 +1,19 @@
+Inner wear>여자 보정속옷, http://leadersdome.co.kr/category/여자-보정속옷/53/
+Inner wear>남자 보정속옷, http://leadersdome.co.kr/category/남자-보정속옷/54/
+Clothes>Pants, http://leadersdome.co.kr/category/pants/28/
+Clothes>Top, http://leadersdome.co.kr/category/top/62/
+Clothes>Skirt, http://leadersdome.co.kr/category/skirt/65/
+Clothes>Outer, http://leadersdome.co.kr/category/outer/69/
+Clothes>SET, http://leadersdome.co.kr/category/set/67/
+Beauty, http://leadersdome.co.kr/category/beauty/66/
+Hat/Cap, http://leadersdome.co.kr/category/hatcap/27/
+Season>Summer, http://leadersdome.co.kr/category/summer/58/
+Season>Winter, http://leadersdome.co.kr/category/winter/59/
+Sports, http://leadersdome.co.kr/category/sports/60/
+Bag>back bag, http://leadersdome.co.kr/category/back-bag/47/
+Bag>cross bag, http://leadersdome.co.kr/category/cross-bag/50/
+Bag>shoulder bag, http://leadersdome.co.kr/category/shoulder-bag/51/
+Bag>clutch bag, http://leadersdome.co.kr/category/clutch-bag/63/
+Bag>Casual bag, http://leadersdome.co.kr/category/casual-bag/64/
+Shoes, http://leadersdome.co.kr/category/shoes/70/
+Sleep wear, http://leadersdome.co.kr/category/sleep-wear/72/

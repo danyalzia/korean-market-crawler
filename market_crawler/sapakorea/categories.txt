@@ -1,0 +1,20 @@
+민물낚시, https://sapakorea.co.kr/category/%EB%AF%BC%EB%AC%BC%EB%82%9A%EC%8B%9C/93/
+바다낚시, https://sapakorea.co.kr/category/%EB%B0%94%EB%8B%A4%EB%82%9A%EC%8B%9C/94/
+원투낚시, https://sapakorea.co.kr/category/%EC%9B%90%ED%88%AC%EB%82%9A%EC%8B%9C/95/
+민물루어, https://sapakorea.co.kr/category/%EB%AF%BC%EB%AC%BC%EB%A3%A8%EC%96%B4/96/
+바다루어, https://sapakorea.co.kr/category/%EB%B0%94%EB%8B%A4%EB%A3%A8%EC%96%B4/172/
+루어, https://sapakorea.co.kr/category/%EB%A3%A8%EC%96%B4/97/
+타이라바, https://sapakorea.co.kr/category/%ED%83%80%EC%9D%B4%EB%9D%BC%EB%B0%94/223/
+에기(오징어/문어), https://sapakorea.co.kr/category/%EC%97%90%EA%B8%B0%EC%98%A4%EC%A7%95%EC%96%B4%EB%AC%B8%EC%96%B4/237/
+릴, https://sapakorea.co.kr/category/%EB%A6%B4/98/
+낚시줄, https://sapakorea.co.kr/category/%EB%82%9A%EC%8B%9C%EC%A4%84/99/
+가방, https://sapakorea.co.kr/category/%EA%B0%80%EB%B0%A9/100/
+낚시용품/소품, https://sapakorea.co.kr/category/%EB%82%9A%EC%8B%9C%EC%9A%A9%ED%92%88%EC%86%8C%ED%92%88/101/
+아이스박스, https://sapakorea.co.kr/category/%EC%95%84%EC%9D%B4%EC%8A%A4%EB%B0%95%EC%8A%A4/102/
+캠핑용품/기타, https://sapakorea.co.kr/category/%EC%BA%A0%ED%95%91%EC%9A%A9%ED%92%88%EA%B8%B0%ED%83%80/103/
+전기용품, https://sapakorea.co.kr/category/%EC%A0%84%EA%B8%B0%EC%9A%A9%ED%92%88/241/
+홈쇼핑상품, https://sapakorea.co.kr/category/%ED%99%88%EC%87%BC%ED%95%91%EC%83%81%ED%92%88/128/
+마스크, https://sapakorea.co.kr/category/%EB%A7%88%EC%8A%A4%ED%81%AC/238/
+일월 매트, https://sapakorea.co.kr/category/%EC%9D%BC%EC%9B%94-%EB%A7%A4%ED%8A%B8/221/
+가전제품, https://sapakorea.co.kr/category/%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88/240/
+생활용품, https://sapakorea.co.kr/category/%EC%83%9D%ED%99%9C%EC%9A%A9%ED%92%88/123/

@@ -1,0 +1,16 @@
+컴퓨터/스마트폰/블루투스>컴퓨터 주변기기, http://murray.co.kr/goods/goods_list.php?cateCd=004001
+컴퓨터/스마트폰/블루투스>스마트폰 주변기기, http://murray.co.kr/goods/goods_list.php?cateCd=004002
+컴퓨터/스마트폰/블루투스>블루투스 스피커/이어폰, http://murray.co.kr/goods/goods_list.php?cateCd=004003
+생활잡화>생활용품, http://murray.co.kr/goods/goods_list.php?cateCd=001001
+생활잡화>계절용품, http://murray.co.kr/goods/goods_list.php?cateCd=001002
+생활잡화>인테리어용품, http://murray.co.kr/goods/goods_list.php?cateCd=001003
+생활잡화>주방용품, http://murray.co.kr/goods/goods_list.php?cateCd=001004
+사무/문구>사무용품, http://murray.co.kr/goods/goods_list.php?cateCd=002001
+미용/건강/의류>미용용품, http://murray.co.kr/goods/goods_list.php?cateCd=003001
+미용/건강/의류>건강용품, http://murray.co.kr/goods/goods_list.php?cateCd=003002
+미용/건강/의류>의류, http://murray.co.kr/goods/goods_list.php?cateCd=003003
+차량용품>공기청정기/디퓨저, http://murray.co.kr/goods/goods_list.php?cateCd=005001
+차량용품>수납공간, http://murray.co.kr/goods/goods_list.php?cateCd=005002
+차량용품>차량용 모바일용품, http://murray.co.kr/goods/goods_list.php?cateCd=005003
+차량용품>기타, http://murray.co.kr/goods/goods_list.php?cateCd=005004
+기타/취미용품, http://murray.co.kr/goods/goods_list.php?cateCd=007

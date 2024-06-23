@@ -1,0 +1,81 @@
+[tool.poetry]
+authors = ["Danyal Zia <danyal6870@gmail.com>"]
+description = ""
+name = "market-crawler"
+readme = "README.md"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+aiofile = "^3.8.8"
+aiohttp = "^3.9.5"
+cashews = {extras = ["diskcache"], version = "^7.1.0"}
+certifi = "^2024.6.2"
+filelock = "^3.15.4"
+fuzzywuzzy = "^0.18.0"
+tqdm = "^4.66.4"
+playwright = "^1.44.0"
+beautifulsoup4 = "^4.12.3"
+dunia = {path = "dunia", develop = true}
+excelsheet = {path = "excelsheet", develop = true}
+robustify = {path = "robustify", develop = true}
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.4.2"
+flake8 = "^7.1.0"
+ipykernel = "^6.29.4"
+ipython = "^8.25.0"
+isort = "^5.13.2"
+pre-commit = "^3.7.1"
+pyinstrument = "^4.6.2"
+pylint = "^3.2.3"
+pytest = "^8.2.2"
+pytest-asyncio = "^0.23.7"
+pytest-clarity = "^1.0.1"
+typing-extensions = "^4.12.2"
+vulture = "^2.11"
+aiohttp = {extras = ["speedup"], version = "^3.9.5"}
+pyright = "^1.1.368"
+
+[tool.black]
+include = '\.py$'
+line-length = 88
+target-version = ['py312']
+
+[tool.isort]
+float_to_top = true
+include_trailing_comma = true
+known_first_party = "build"
+lines_after_imports = 2
+lines_between_types = 1
+multi_line_output = 3
+profile = "black"
+skip = []
+skip_glob = ".venv, */build, */.git, common"
+
+[tool.pyright]
+exclude = ["**/node_modules", "**/__pycache__", "**/.venv", "scripts"]
+include = ["."]
+venv = ".venv"
+
+reportImportCycles = true
+reportMissingImports = true
+reportPrivateUsage = true
+reportUnknownArgumentType = true
+reportMissingTypeStubs = false
+reportUnknownLambdaType = false
+reportUnknownMemberType = false
+reportUntypedFunctionDecorator = false
+reportUnknownParameterType = "warning"
+reportUnknownVariableType = "warning"
+reportUnusedImport = "warning"
+
+[tool.pytest.ini_options]
+addopts = "-vv --diff-symbols -x -s"
+faulthandler_timeout = 500
+log_auto_indent = true
+testpaths = ["tests"]
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core"]

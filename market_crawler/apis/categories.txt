@@ -1,0 +1,9 @@
+바다대, http://apis.co.kr/shop_sub_list.php?ac_id=3
+민물대, http://apis.co.kr/shop_sub_list.php?ac_id=1
+루어대, http://apis.co.kr/shop_sub_list.php?ac_id=4
+중층대, http://apis.co.kr/shop_sub_list.php?ac_id=2
+좌대/받침틀, http://apis.co.kr/shop_sub_list.php?ac_id=127
+낚시용품, http://apis.co.kr/shop_sub_list.php?ac_id=55
+찌/소품, http://apis.co.kr/shop_sub_list.php?ac_id=101
+낚시 가방, http://apis.co.kr/shop_sub_list.php?ac_id=69
+릴, http://apis.co.kr/shop_sub_list.php?ac_id=18

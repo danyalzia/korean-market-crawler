@@ -1,0 +1,15 @@
+테니스, http://www.1sports.kr/shop/goods/goods_list.php?&category=048
+배드민턴, http://www.1sports.kr/shop/goods/goods_list.php?&category=049
+의류, http://www.1sports.kr/shop/goods/goods_list.php?&category=056
+신발, http://www.1sports.kr/shop/goods/goods_list.php?&category=057
+가방, http://www.1sports.kr/shop/goods/goods_list.php?&category=058
+그립/모자/양말, http://www.1sports.kr/shop/goods/goods_list.php?&category=066
+악세사리, http://www.1sports.kr/shop/goods/goods_list.php?&category=059
+보호대/의료용품, http://www.1sports.kr/shop/goods/goods_list.php?&category=060
+스쿼시/정구, http://www.1sports.kr/shop/goods/goods_list.php?&category=050
+축구/족구/풋살/럭비, http://www.1sports.kr/shop/goods/goods_list.php?&category=051
+야구/탁구/농구/배구/핸드볼, http://www.1sports.kr/shop/goods/goods_list.php?&category=052
+피트니스/헬스/육상/복싱, http://www.1sports.kr/shop/goods/goods_list.php?&category=054
+학교납품/상패/트로피, http://www.1sports.kr/shop/goods/goods_list.php?&category=055
+레이디존/그랜드존, http://www.1sports.kr/shop/goods/goods_list.php?&category=074
+주니어존/빅사이즈존, http://www.1sports.kr/shop/goods/goods_list.php?&category=062

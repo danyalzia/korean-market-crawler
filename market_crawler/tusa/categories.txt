@@ -1,0 +1,5 @@
+수영용품, http://shop122818.wepas.co.kr/mall/m_mall_list.php?ps_ctid=01000000
+스노쿨링, http://shop122818.wepas.co.kr/mall/m_mall_list.php?ps_ctid=02000000
+스쿠버 다이빙, http://shop122818.wepas.co.kr/mall/m_mall_list.php?ps_ctid=03000000
+커머셜 다이빙, http://shop122818.wepas.co.kr/mall/m_mall_list.php?ps_ctid=04000000
+슈트, http://shop122818.wepas.co.kr/mall/m_mall_list.php?ps_ctid=05000000

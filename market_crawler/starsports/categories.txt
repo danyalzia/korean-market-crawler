@@ -1,0 +1,17 @@
+축구, https://starsportsmall.co.kr/goods/submain.asp?cate=1238&categoryNum=
+풋살, https://starsportsmall.co.kr/goods/submain.asp?cate=1252&categoryNum=
+족구, https://starsportsmall.co.kr/goods/submain.asp?cate=1265&categoryNum=
+배구, https://starsportsmall.co.kr/goods/submain.asp?cate=1276&categoryNum=
+농구, https://starsportsmall.co.kr/goods/submain.asp?cate=1283&categoryNum=
+야구, https://starsportsmall.co.kr/goods/submain.asp?cate=1291&categoryNum=
+핸드볼/럭비, https://starsportsmall.co.kr/goods/submain.asp?cate=1311&categoryNum=
+라켓스포츠, https://starsportsmall.co.kr/goods/submain.asp?cate=1316&categoryNum=
+뉴스포츠, https://starsportsmall.co.kr/goods/submain.asp?cate=1337&categoryNum=
+육상/런닝, https://starsportsmall.co.kr/goods/submain.asp?cate=1352&categoryNum=
+수영, https://starsportsmall.co.kr/goods/submain.asp?cate=1358&categoryNum=
+피트니스, https://starsportsmall.co.kr/goods/submain.asp?cate=1372&categoryNum=
+보호대/보호용품, https://starsportsmall.co.kr/goods/submain.asp?cate=1398&categoryNum=
+스포츠용품, https://starsportsmall.co.kr/goods/submain.asp?cate=1417&categoryNum=
+스케이트/킥보드/인라인, https://starsportsmall.co.kr/goods/submain.asp?cate=1433&categoryNum=
+유니폼/의류, https://starsportsmall.co.kr/goods/submain.asp?cate=1441&categoryNum=
+건강보조식품, https://starsportsmall.co.kr/goods/submain.asp?cate=1452&categoryNum=

@@ -1,0 +1,175 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "_gcl_au",
+      "value": "1.1.1704589707.1645848258",
+      "domain": ".daiwa.com",
+      "path": "/",
+      "expires": 1653624258,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_ga",
+      "value": "GA1.2.1374634718.1645848301",
+      "domain": ".daiwa.com",
+      "path": "/",
+      "expires": 1709809169,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1647341460.21677,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "ORA_FPC",
+      "value": "id=4c9eec43-1009-4cf7-a1cc-1dbeeef58d47",
+      "domain": ".daiwa.com",
+      "path": "/",
+      "expires": 1709851020,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "WTPERSIST",
+      "value": "",
+      "domain": ".daiwa.com",
+      "path": "/",
+      "expires": 1678273171,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "otR99NXEjNc",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1661400487.784308,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "NID",
+      "value": "511=HQlGkdTdydrCvxS8GaMBccpPbiP5qGzQcA73wNJy8KWjSsHUQSR1wArDXZV8p9w569riV4jsYUcDulBDbhsD79RdSU20A6bq2eHA9a9zGX-5YdlAG6McaBey-jVBG1CaLtPWQ1yceI3qDv_cO_UqPWaXm9oNLpK4hEc8YNAJNjM",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1661667428.132231,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "mmapi.p.srv",
+      "value": "%22prodphxcgus10%22",
+      "domain": ".daiwa.com",
+      "path": "/",
+      "expires": 1678273169,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "mmapi.p.uat",
+      "value": "%7B%22visit_value%22%3A%22None%22%7D",
+      "domain": ".daiwa.com",
+      "path": "/",
+      "expires": 1678273169,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "1P_JAR",
+      "value": "2022-03-03-07",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1648886171.280454,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "CLID",
+      "value": "fd0f688acddc40288df7622f86c90bc5.20220226.20230308",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1678272657.113633,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "SRM_B",
+      "value": "366F086568CE68B7048A190469C7694C",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1680432658.838931,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "MUID",
+      "value": "366F086568CE68B7048A190469C7694C",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1680432660.216741,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_clck",
+      "value": "18kmscc|1|ezl|0",
+      "domain": ".daiwa.com",
+      "path": "/",
+      "expires": 1678272659,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "mmapi.p.pd",
+      "value": "%22Q623_rv0_ZUQWQZbCP-_fdTHdz6ttr_JcdJshqgJHg4%3D%7C-AsAAApDH4sIAAAAAAAEAGNh2BsiZjdf9GwKA3NBRgWjEAOjE0N1T8ZTHoY3nhY7PjHc8hBgsmK4--OmBwMQ_IcCBjaXzKLU5BLGlaKMDNwgGSCASYJoiAgDoysAoHh2SGEAAAA%3D%22",
+      "domain": ".daiwa.com",
+      "path": "/",
+      "expires": 1678273169,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "JSESSIONID",
+      "value": "7A8679633F0EAC516F2599E07973EB6E",
+      "domain": "www.daiwab2b.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://www.daiwab2b.com",
+      "localStorage": [
+        {
+          "name": "_ext:/sencha/list/resources/sencha/app/classic.json-4780f8d5-5b2f-4854-aade-cd74d66a1eb2",
+          "value": "{\"packages\":{\"classic\":{\"css\":true,\"included\":true,\"required\":true,\"requires\":[\"ext\",\"core\"],\"version\":\"6.0.0.640\"},\"cmd\":{\"current\":\"6.2.1.29\",\"version\":\"6.7.0.37\"},\"core\":{\"css\":true,\"included\":true,\"required\":true,\"requires\":[\"ext\",\"classic\"],\"version\":\"6.0.0.640\"},\"ext\":{\"css\":true,\"included\":true,\"license\":\"trial\",\"required\":true,\"requires\":[],\"version\":\"6.0.0.640\"},\"font-awesome\":{\"css\":true,\"included\":true,\"required\":true,\"requires\":[\"ext\",\"core\",\"classic\"],\"theme\":\"theme-neptune\",\"version\":\"6.0.0.640\"},\"locale\":{\"css\":true,\"included\":true,\"required\":true,\"requires\":[\"ext\",\"core\",\"classic\"],\"version\":\"6.0.0.640\"},\"theme-base\":{\"css\":true,\"included\":true,\"required\":true,\"requires\":[\"ext\",\"core\",\"classic\"],\"version\":\"6.0.0.640\"},\"theme-classic\":{\"css\":true,\"extend\":\"theme-neutral\",\"included\":true,\"required\":true,\"requires\":[\"ext\",\"core\",\"classic\",\"theme-base\",\"theme-neutral\"],\"version\":\"6.0.0.640\"},\"theme-gray\":{\"css\":true,\"extend\":\"theme-classic\",\"included\":true,\"required\":true,\"requires\":[\"ext\",\"core\",\"classic\",\"theme-base\",\"theme-neutral\",\"theme-classic\"],\"version\":\"6.0.0.640\"},\"theme-neutral\":{\"css\":true,\"extend\":\"theme-base\",\"included\":true,\"required\":true,\"requires\":[\"ext\",\"core\",\"classic\",\"theme-base\"],\"version\":\"6.0.0.640\"}},\"js\":[{\"path\":\"/resources/sencha/app/classic/app.js\"}],\"css\":[{\"exclude\":[\"fashion\"],\"path\":\"/resources/sencha/app/classic/resources/daiwa-all.css\"}],\"cache\":{\"enable\":true,\"deltas\":\"/resources/sencha/app/classic/deltas\"},\"fashion\":{\"inliner\":{\"enable\":false}},\"name\":\"daiwa\",\"version\":\"1.0.0.0\",\"framework\":\"ext\",\"loader\":{\"cache\":\"20210614165023\",\"cacheParam\":\"_dc\"},\"id\":\"4780f8d5-5b2f-4854-aade-cd74d66a1eb2\",\"toolkit\":\"classic\",\"theme\":\"theme-gray\",\"locale\":\"ko\",\"hash\":\"d0ff70bee473d1f3f36f3752abb3aa354c53f980\",\"profile\":\"classic\",\"resources\":{\"path\":\"/resources/sencha/app/classic/resources\",\"shared\":\"resources\"}}"
+        }
+      ]
+    }
+  ]
+}

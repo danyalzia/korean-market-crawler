@@ -1,0 +1,10 @@
+바다릴대, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=001
+바다민대, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=002
+루어대, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=003
+선상대, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=004
+원투대, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=005
+민물민대, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=006
+받침대, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=007
+바다/민물겸용릴대, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=008
+뜰채, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=009
+기타용품, http://www.bnkrod.co.kr/goods/goods_list.php?cateCd=010

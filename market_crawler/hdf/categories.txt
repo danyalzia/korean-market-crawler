@@ -1,0 +1,12 @@
+로드/릴/뜰채, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=01000000
+의류/신발/편광안경, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=02000000
+아이스박스, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=03000000
+가방/밑밥통/두레박, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=04000000
+바늘/라인, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=05000000
+바다찌/민물찌, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=06000000
+민물떡밥/민물장비/중층장비, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=07000000
+중층소품/소품, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=08000000
+태클박스/플라이어/나이프, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=09000000
+돌돔용품/묶음채비, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=0A000000
+집어등/기타장비/캠핑·골프용품, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=0B000000
+피나투라 루어용품, https://shop.ihdf.co.kr/shop_goods/goods_list.htm?category=0C000000

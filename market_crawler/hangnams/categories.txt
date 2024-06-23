@@ -1,0 +1,4 @@
+밀키트, https://hangnams.com/goods/catalog?code=0023
+수산물, https://hangnams.com/goods/catalog?code=0022
+농축산, https://hangnams.com/goods/catalog?code=0021
+선물세트, https://hangnams.com/goods/catalog?code=0024

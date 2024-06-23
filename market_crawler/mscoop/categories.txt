@@ -1,0 +1,6 @@
+기능식품, http://mscoop.co.kr/site/estore/mscoop1/index.php?CID=goods_middle&CODE=10&imode=
+가공식품, http://mscoop.co.kr/site/estore/mscoop1/index.php?CID=goods_middle&CODE=20&imode=
+신선식품, http://mscoop.co.kr/site/estore/mscoop1/index.php?CID=goods_middle&CODE=30&imode=
+생활잡화, http://mscoop.co.kr/site/estore/mscoop1/index.php?CID=goods_middle&CODE=40&imode=
+차(TEA), http://mscoop.co.kr/site/estore/mscoop1/index.php?CID=goods_middle&CODE=50&imode=
+홈쇼핑상품, http://mscoop.co.kr/site/estore/mscoop1/index.php?CID=goods_middle&CODE=60&imode=

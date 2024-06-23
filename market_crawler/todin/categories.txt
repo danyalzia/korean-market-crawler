@@ -1,0 +1,8 @@
+골프용품, https://www.todingolf.com/goods/catalog?code=0001
+골프클럽, https://www.todingolf.com/goods/catalog?code=0002
+골프패션, https://www.todingolf.com/goods/catalog?code=0003
+골프그립, https://www.todingolf.com/goods/catalog?code=0005
+헬스케어, https://www.todingolf.com/goods/catalog?code=0006
+방한용품, https://www.todingolf.com/goods/catalog?code=0007
+스포츠용품, https://www.todingolf.com/goods/catalog?code=0008
+생활용품, https://www.todingolf.com/goods/catalog?code=0009

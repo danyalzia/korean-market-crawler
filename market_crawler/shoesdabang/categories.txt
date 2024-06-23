@@ -1,0 +1,9 @@
+FLAT/LOAFER, https://shoesdabang.com/category/flat-loafer/24/
+PUMPS/HEEL, https://shoesdabang.com/category/pumps-heel/25/
+SNEAKERS, https://shoesdabang.com/category/sneakers/26/
+BOOTS/ANKLE, https://shoesdabang.com/category/boots-ankle/27/
+WALKER, https://shoesdabang.com/category/walker/28/
+WEDGEHEEL, https://shoesdabang.com/category/wedgeheel/29/
+SANDAL/SLIPPER, https://shoesdabang.com/category/sandal-slipper/30/
+BAG, https://shoesdabang.com/category/bag/31/
+ON THE SALE, https://shoesdabang.com/category/on-the-sale/32/

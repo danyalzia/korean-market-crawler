@@ -1,0 +1,6 @@
+신발, http://www.caposports.co.kr/main/list.html?category=1010
+의류, http://www.caposports.co.kr/main/list.html?category=1030
+용품, http://www.caposports.co.kr/main/list.html?category=1040
+팀웨어, http://www.caposports.co.kr/main/list.html?category=103020
+유소년, http://www.caposports.co.kr/main/list.html?category=1050
+여성, http://www.caposports.co.kr/main/list.html?category=1060

@@ -1,0 +1,9 @@
+필드용품, https://xeeon.co.kr/product/list.html?cate_no=72
+연습용품, https://xeeon.co.kr/product/list.html?cate_no=73
+골프용품, https://xeeon.co.kr/product/list.html?cate_no=150
+패션잡화, https://xeeon.co.kr/product/list.html?cate_no=148
+골프의류, https://xeeon.co.kr/product/list.html?cate_no=157
+골프클럽, https://xeeon.co.kr/product/list.html?cate_no=126
+피팅센터, https://xeeon.co.kr/product/list.html?cate_no=178
+선물세트_판촉용품, https://xeeon.co.kr/product/list.html?cate_no=230
+계절용품, https://xeeon.co.kr/product/list.html?cate_no=241

@@ -1,0 +1,7 @@
+COMPONENT(부품), https://www.rodall.co.kr/goods/goods_list.php?cateCd=001
+ROD(낚싯대), https://www.rodall.co.kr/goods/goods_list.php?cateCd=002
+LURE(루어), https://www.rodall.co.kr/goods/goods_list.php?cateCd=012
+LINE(라인), https://www.rodall.co.kr/goods/goods_list.php?cateCd=017
+ACC(소품), https://www.rodall.co.kr/goods/goods_list.php?cateCd=019
+테클박스, https://www.rodall.co.kr/goods/goods_list.php?cateCd=011
+KIGANISM기획전, https://www.rodall.co.kr/goods/goods_list.php?cateCd=003

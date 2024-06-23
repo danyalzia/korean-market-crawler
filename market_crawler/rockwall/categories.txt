@@ -1,0 +1,12 @@
+바다낚시, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=019
+민물낚시, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=020
+루어낚시, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=021
+낚시대, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=010
+릴, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=015
+줄(Line), https://www.rockwall.co.kr/goods/goods_list.php?cateCd=027
+찌, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=026
+가방/보조가방, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=007
+공통장비, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=022
+의류/모자/신발, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=024
+파라솔/텐트/침낭, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=023
+세트상품, https://www.rockwall.co.kr/goods/goods_list.php?cateCd=025

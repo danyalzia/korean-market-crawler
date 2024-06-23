@@ -1,0 +1,2 @@
+전체상품, https://letsbag.co.kr/product/list.html?cate_no=42&page=1
+재고소진, https://letsbag.co.kr/product/list.html?cate_no=55&page=1

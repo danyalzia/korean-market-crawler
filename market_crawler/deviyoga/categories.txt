@@ -1,0 +1,6 @@
+PRO SERIES, http://deviyoga.kr/goods/goods_list.php?cateCd=007
+요가매트, http://deviyoga.kr/goods/goods_list.php?cateCd=001
+짐볼, http://deviyoga.kr/goods/goods_list.php?cateCd=002
+밴드, http://deviyoga.kr/goods/goods_list.php?cateCd=003
+요가 소도구, http://deviyoga.kr/goods/goods_list.php?cateCd=004
+악세사리, http://deviyoga.kr/goods/goods_list.php?cateCd=005

@@ -1,0 +1,4 @@
+CAMPING, http://karnik.co.kr/category/camping/26/
+OUTDOOR, http://karnik.co.kr/category/outdoor/27/
+계절용품, http://karnik.co.kr/category/%EA%B3%84%EC%A0%88%EC%9A%A9%ED%92%88/28/
+ACCESSORY, http://karnik.co.kr/category/accessory/42/

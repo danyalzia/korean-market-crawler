@@ -1,0 +1,6 @@
+민물낚시, http://shop.yong-sung.co.kr/new/shoppinglist.aspx?itemcode=&brandcode=&search=&newcategory=000&check=0&level=1
+바다낚시, http://shop.yong-sung.co.kr/new/shoppinglist.aspx?itemcode=&brandcode=&search=&newcategory=019&check=0&level=1
+루어낚시, http://shop.yong-sung.co.kr/new/shoppinglist.aspx?itemcode=&brandcode=&search=&newcategory=020&check=0&level=1
+기타낚시용품, http://shop.yong-sung.co.kr/new/shoppinglist.aspx?itemcode=&brandcode=&search=&newcategory=030&check=0&level=1
+의류, http://shop.yong-sung.co.kr/new/shoppinglist.aspx?itemcode=&brandcode=&search=&newcategory=120&check=0&level=1
+해루질용품, http://shop.yong-sung.co.kr/new/shoppinglist.aspx?itemcode=&brandcode=&search=&newcategory=100&check=0&level=1
